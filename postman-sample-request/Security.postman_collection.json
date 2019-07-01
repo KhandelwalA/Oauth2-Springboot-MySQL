@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Security",
+		"_postman_id": "8e25e12c-c122-822e-9706-e4acc49c91fa",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "SecurityRequest",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
